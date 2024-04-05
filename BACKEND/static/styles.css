@@ -1,0 +1,23 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.pouring {
+    color: #333;
+    font-size: 36px; 
+}
+
+.hello {
+    font-size: 28px; 
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+    font-size: 20px; 
+}
